@@ -1,0 +1,13 @@
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 60vw;
+}
+.nombreCompleto{
+    display:table-row;
+}
+.direccion{
+    display: flex;
+    flex-direction: column;
+}
